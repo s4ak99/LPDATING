@@ -5,7 +5,7 @@
   "target":"https://partners-for.life/?u=pv7k607&o=304pmqh&t=ak99&cid=ak99",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
-    "script",
+    "",
     "noscript",
     "meta",
     "iframe",
